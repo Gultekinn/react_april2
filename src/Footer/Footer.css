@@ -1,0 +1,23 @@
+.texth1{
+    text-align: center;
+}
+
+.card{
+    width: 300px;
+    height: 400px;
+    border: 1px solid;
+}
+.card img{
+    width: 300px;
+    height: 250px;
+}
+.card_text{
+    text-align: center;
+}
+.common{
+    padding: 60px 250px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}

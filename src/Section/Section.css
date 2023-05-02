@@ -1,0 +1,28 @@
+.section{
+    width: 800px;
+    height: 400px;
+    
+    margin: auto;
+    margin-top: 200px;
+ display: flex;
+}
+
+.section__text{
+  width: 400px;  
+  color: azure;
+  background-color: green;
+  height: 350px;
+  padding: 10px 10px;
+ 
+  
+}
+
+.div{
+    padding: 40px 40px;
+}
+
+
+.section__image img{
+    width: 400px;
+    height: 370px;
+}
